@@ -1,0 +1,15 @@
+com/carouselapp/MainActivity.java
+ com.carouselapp.MainActivity
+ com.carouselapp.MainActivity$1
+com/carouselapp/BuildConfig.java
+ com.carouselapp.BuildConfig
+com/carouselapp/ReactNativeFlipper.java
+ com.carouselapp.ReactNativeFlipper
+ com.carouselapp.ReactNativeFlipper$1
+ com.carouselapp.ReactNativeFlipper$2
+ com.carouselapp.ReactNativeFlipper$2$1
+com/carouselapp/MainApplication.java
+ com.carouselapp.MainApplication
+ com.carouselapp.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
